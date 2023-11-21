@@ -189,3 +189,21 @@ li{
     border-radius: 20px;
 }
 
+#Website{
+    width: 70px;
+    height: 25px;
+    padding: 4px;
+    display: inline-block;
+    background-color: rgb(255, 0, 179);
+    border-radius: 20px;    
+}
+
+#Sales{
+    width: 70px;
+    height: 25px;
+    padding: 4px;
+    display: inline-block;
+    background-color: rgb(179, 255, 0);
+    border-radius: 20px;    
+}
+
