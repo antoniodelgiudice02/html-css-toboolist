@@ -6,12 +6,16 @@
 
 /*header*/
 
+header{
+    height: 75px;
+}
+
 #logo{
     display: inline-block;
     vertical-align: middle;
     width: 50px;
     height: 80px;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-left: 30px;
 }
 
@@ -25,13 +29,14 @@
 /*main*/
 
 main{
-    background-color: aquamarine;
+    background-color: rgb(216, 230, 230);
+    padding: 40px;
 }
 
 .conteiner{
     width: 500px;
     height: 700px;
-    background-color: aqua;
+    background-color: rgb(255, 255, 255);
     margin: auto;
     border-radius: 10px;
 }
